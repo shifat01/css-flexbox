@@ -1,0 +1,18 @@
+.flexbox{
+    background-color: aqua;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 200px;
+    align-items: center;
+}
+
+.flexbox div{
+    background-color: gray;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+
+}
