@@ -1,13 +1,13 @@
 # CSS Flexbox
 
 Simple Flexbox using html and css
+### Preview
+![screenshot](./images/Screenshot_8.png)
+
 ## Features
 - Basic Flexbox properties
 - Responsive design
 - Layout alignment
-
-### Screenshot
-![flexbox](./images/Screenshot_8.png)
 
 ## How to View:
 1. Clone the repository or download the files.  
